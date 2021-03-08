@@ -1,0 +1,12 @@
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contractible.csprojAssemblyReference.cache
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contarctible.Contractible.resources
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contarctible.Edit_Page.resources
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contractible.Properties.Resources.resources
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contarctible.ShowList_Page.resources
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contractible.csproj.GenerateResource.cache
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contractible.csproj.CoreCompileInputs.cache
+C:\Users\uzair\source\repos\Contractible\Contractible\bin\Debug\Contractible.exe.config
+C:\Users\uzair\source\repos\Contractible\Contractible\bin\Debug\Contractible.exe
+C:\Users\uzair\source\repos\Contractible\Contractible\bin\Debug\Contractible.pdb
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contractible.exe
+C:\Users\uzair\source\repos\Contractible\Contractible\obj\Debug\Contractible.pdb
